@@ -1,3 +1,3 @@
 # ChibiOS-STM32F103-SERVO-PWM
 
-[Demo video](https://example.com/my-link "link title")
+[Demo video](https://youtu.be/GgNfk8-xC3k)
