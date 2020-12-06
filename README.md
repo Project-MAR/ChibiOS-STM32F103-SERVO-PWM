@@ -16,6 +16,7 @@
 - BOOT0: No.2 on Switch or Mark 0 on PCB
 - BOOT1: No.1 on Switch or Mark 1 on PCB, BOOT1 is connected to PB2 
 - To used serial programming. BOOT0 is UP and BOOT1 is DOWN
+- serial config: 115200 8E1
 <p align="center">
   <img src="https://github.com/Project-MAR/ChibiOS-STM32F103-SERVO-PWM/blob/main/img/serial_boot.jpg">
 </p>
